@@ -18,7 +18,7 @@ Task-Manager is a web application designed to help users efficiently manage and 
 
 - **Backend**:
   - [Prisma](https://www.prisma.io/): An ORM for database management.
-  - SQLite: Relational DataBase
+  - [SQLite](https://sqlite.com/): Relational DataBase
 
 ## Getting Started
 
